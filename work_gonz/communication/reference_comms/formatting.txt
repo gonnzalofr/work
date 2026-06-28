@@ -1,0 +1,18 @@
+[0:2]: XCoord
+[3:5]: YCoord
+[6:7]: ObjectData
+
+robots start at 500,500
+[7]:COLOURS: 
+1: red
+2: green
+3: blue
+4: black
+5: white
+[6]:TYPE
+0: noPOI
+1: small sample
+2: large sample
+3: cliff/tape
+4: mountain
+
